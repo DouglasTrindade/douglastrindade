@@ -1,4 +1,4 @@
-### Prazer, eu sou o Douglas Trindade! 👋
+### Prazer, eu sou o Douglas Trindade!
 
 - 📚 Sou estudante de Front-End
 - 🌱 Estou estudando HTML
