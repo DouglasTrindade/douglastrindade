@@ -1,7 +1,7 @@
 ### Prazer, eu sou o Douglas Trindade! 👋
 
-
-- 🌱 Sou estudante de Front-End/HTML
+- 📚 Sou estudante de Front-End
+- 🌱 Estou estudando HTML
 - 📫 Contate-me no e-mail: douglastrindade22@hotmail.com
 - 😄 Pronouns: ele/dele
 
