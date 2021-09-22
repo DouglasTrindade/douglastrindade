@@ -5,6 +5,8 @@
 - 📫 Contate-me no e-mail: douglastrindade22@hotmail.com
 - 😄 Pronouns: ele/dele
 
+What I cannot create, I do not understand.<br>
+                         - Richard Feynman</br>
  <div>
   <a href="https://github.com/DouglasTrindade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglastrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,3 +26,4 @@
     <a href="https://discord.gg/NjwAe3ZG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href = "douglastrindade22@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/douglastrindade1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      
