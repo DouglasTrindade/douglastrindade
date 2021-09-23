@@ -3,7 +3,7 @@
 - 📚 Estudante de Front-End
 - 🌱 Estudando HTML/CSS
 - 📫 Contate-me no e-mail: douglastrindade22@hotmail.com
-- 😄 Pronouns: ele/dele
+- 📱  (84) 9 9624-2338
 
 What I cannot create, I do not understand.<br>
                          - Richard Feynman</br>
