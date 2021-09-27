@@ -1,7 +1,7 @@
 ### Douglas Trindade!
 
-- 📚 Estudante de Front-End
-- 🌱 Estudando HTML/CSS
+- 📚 Estudante de Front-end
+- 🌱 Estudando HTML/CSS/JavaScript
 - 📫 Contate-me no e-mail: douglastrindade22@hotmail.com
 
 What I cannot create, I do not understand.<br>
