@@ -1,7 +1,7 @@
 ### Douglas Trindade!
 
 - 📚 Desenvolvedor Web | Front-end
-- 🌱 Estudando HTML/CSS/JavaScript
+- 🌱 HTML/CSS/JavaScript
 - 📫 Contate-me no e-mail: douglastrindade22@hotmail.com
 
 What I cannot create, I do not understand.<br>
