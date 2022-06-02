@@ -2,7 +2,6 @@
 
 - 📚 Desenvolvedor Web | Front-end
 - 🌱 HTML5 | CSS3 | JavaScript | VueJS | Vuetify
-- 📫 Contate-me no e-mail: douglastrindade22@hotmail.com
 
 What I cannot create, I do not understand.<br>
                          - Richard Feynman</br>
