@@ -15,6 +15,8 @@ What I cannot create, I do not understand.<br>
   <img align="center" alt="Rafa-Js" height="45" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="45" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="45" width="35" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Rafa-Js" height="45" width="35" <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/javascript_logo_icon_168608.png" />
+  
  </div>
   
     
