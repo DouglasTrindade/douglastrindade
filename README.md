@@ -30,7 +30,7 @@ What I cannot create, I do not understand.<br>
     <a href="https://instagram.com/douglastrindade1" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://instagram.com/douglastrindade1" target="_blank"></a>
     <a href="https://discord.gg/ZdSECpBT4t" target="_blank"><img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link" target="_blank"></a>
-    <a href = "mailto:douglastrindade22@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:douglastrindade22@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-1C1C1C?style=for-the-badge&logo=Hotmail&logoColor=00FFFF&link" target="_blank"></a>
     <a href="https://www.linkedin.com/in/douglastrindade1/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/douglastrindade1/"/>       </a>
 </div>
