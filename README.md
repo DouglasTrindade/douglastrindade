@@ -13,7 +13,6 @@ What I cannot create, I do not understand.<br>
   
  
 <div style="display: inline_block"><br>
-## 
 
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 
@@ -25,15 +24,14 @@ What I cannot create, I do not understand.<br>
 
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
 
-## 
 </div>
   
-  <div>
-  <a href="https://instagram.com/douglastrindade1" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://instagram.com/douglastrindade1"/></a>
-    <a href="https://discord.gg/ZdSECpBT4t" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href = "mailto:douglastrindade22@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<div>
+    <a href="https://instagram.com/douglastrindade1" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://instagram.com/douglastrindade1"/></a>
+    <a href="https://discord.gg/ZdSECpBT4t" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"         target="_blank"></a>
+    <a href = "mailto:douglastrindade22@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-               outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/douglastrindade1/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/douglastrindade1/"/></a>
-  </div>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/douglastrindade1/"/>       </a>
+</div>
       
