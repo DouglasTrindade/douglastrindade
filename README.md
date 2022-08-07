@@ -11,6 +11,7 @@ What I cannot create, I do not understand.<br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastrindade&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+##  
 <div style="display: inline_block"><br>
   
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -24,7 +25,7 @@ What I cannot create, I do not understand.<br>
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
 
 </div>
-    
+##   
   <div>
   <a href="https://instagram.com/douglastrindade1" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://instagram.com/douglastrindade1"/></a>
