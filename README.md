@@ -26,7 +26,7 @@ What I cannot create, I do not understand.<br>
 
 </div>
   
-<div>
+<div style="display: inline_block">
   <a href="https://instagram.com/douglastrindade1" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://instagram.com/douglastrindade1"></a>
     
   <a href="https://discord.gg/ZdSECpBT4t"><img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link"></a>
