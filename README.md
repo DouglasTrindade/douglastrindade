@@ -11,7 +11,7 @@ What I cannot create, I do not understand.<br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastrindade&layout=compact&langs_count=7&theme=dark"/>
 
   
-<div style="text-decoration: none">
+<div style="display: inline-block">
   
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
