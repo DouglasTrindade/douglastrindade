@@ -4,7 +4,7 @@
 - 🌱 HTML5 | CSS3 | JavaScript | C# | .NET | ASP.NET
 
 <blockquote>"What I cannot create, I do not understand."<br><blockquote>
-                         <p style="float: left">- Richard Feynman</p>
+                         <p style="align: left">- Richard Feynman</p>
 
 ##
 ### 🚀 Habilidades:
