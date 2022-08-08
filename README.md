@@ -3,8 +3,8 @@
 - 📚 Software Developer
 - 🌱 HTML5 | CSS3 | JavaScript | C# | .NET | ASP.NET
 
-<h4>"What I cannot create, I do not understand."</h4><br>
-                         - Richard Feynman</br>
+<h4>"What I cannot create, I do not understand."<br></h4>
+                         - Richard Feynman
 
 ##
 ### 🚀 Habilidades:
