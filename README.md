@@ -24,6 +24,8 @@ What I cannot create, I do not understand.<br>
 
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
 
+![C#](https://img.shields.io/badge/c#-%23323330.svg?style=for-the-badge&logo=c#&logoColor=F05033)
+
 </div>
  
 <div style="display: inline_block"><br>
