@@ -20,6 +20,7 @@ What I cannot create, I do not understand.<br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=865dc4)
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
 ![C#](https://img.shields.io/badge/Csharp-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=865dc4)
+![Dotnet](https://img.shields.io/badge/Dotnet-%23323330.svg?style=for-the-badge&logo=dotnet&logoColor=865dc4)
 
   
 </div>
