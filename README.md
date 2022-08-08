@@ -2,6 +2,7 @@
 
 - 📚 Software Developer
 - 🌱 HTML5 | CSS3 | JavaScript | C# | .NET | ASP.NET
+- ☄  Cursando Análise e Desenvolvimento de Sistemas
 
 What I cannot create, I do not understand.<br>
                          - Richard Feynman</br>
