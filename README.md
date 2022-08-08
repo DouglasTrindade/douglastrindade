@@ -10,7 +10,8 @@ What I cannot create, I do not understand.<br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglastrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastrindade&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+##
+  
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -20,7 +21,8 @@ What I cannot create, I do not understand.<br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=865dc4)
 
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
-  
+
+##  
 <div style="display: inline_block">
 
   <a href="https://instagram.com/douglastrindade1" alt="Instagram">
