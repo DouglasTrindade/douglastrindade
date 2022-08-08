@@ -10,7 +10,7 @@ What I cannot create, I do not understand.<br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglastrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastrindade&layout=compact&langs_count=7&theme=dark"/>
 </div>
-##
+
   
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 
@@ -22,19 +22,19 @@ What I cannot create, I do not understand.<br>
 
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
 
-##  
-<div style="display: inline_block">
+ 
+<div style="display: inline_block"><br>
 
-  <a href="https://instagram.com/douglastrindade1" alt="Instagram">
+  <a href="https://instagram.com/douglastrindade1" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://instagram.com/douglastrindade1"></a>
     
-  <a href="https://discord.gg/ZdSECpBT4t">
+  <a href="https://discord.gg/ZdSECpBT4t" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link"></a>
   
-  <a href="https://www.linkedin.com/in/douglastrindade1/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/douglastrindade1/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/douglastrindade1/"></a>
   
-  <a href = "mailto:douglastrindade22@hotmail.com">
+  <a href = "mailto:douglastrindade22@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Hotmail-1C1C1C?style=for-the-badge&logo=Hotmail&logoColor=00FFFF&link"></a>     
 
 </div>
