@@ -19,7 +19,7 @@ What I cannot create, I do not understand.<br>
 ![C#](https://img.shields.io/badge/Csharp-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=865dc4)
 ![Dotnet](https://img.shields.io/badge/Dotnet-%23323330.svg?style=for-the-badge&logo=dotnet&logoColor=865dc4)
 ![SQLite](https://img.shields.io/badge/Sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=1572B6)
-![SQL-Server](https://img.shields.io/badge/Sql-server-%23323330.svg?style=for-the-badge&logo=sql-server&logoColor=1572B6)
+![sqlserver](https://img.shields.io/badge/Sqlserver-%23323330.svg?style=for-the-badge&logo=sqlserver&logoColor=1572B6)
 
   
 </div>
