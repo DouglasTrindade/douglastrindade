@@ -33,12 +33,12 @@ What I cannot create, I do not understand.<br>
     
   <a href="https://discord.gg/ZdSECpBT4t">
   <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link"></a>
-    
-  <a href = "mailto:douglastrindade22@hotmail.com">
-  <img src="https://img.shields.io/badge/-Hotmail-1C1C1C?style=for-the-badge&logo=Hotmail&logoColor=00FFFF&link"></a>
-      
+  
   <a href="https://www.linkedin.com/in/douglastrindade1/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/douglastrindade1/"></a>
+  
+  <a href = "mailto:douglastrindade22@hotmail.com">
+  <img src="https://img.shields.io/badge/-Hotmail-1C1C1C?style=for-the-badge&logo=Hotmail&logoColor=00FFFF&link"></a>     
 
 </div>
       
