@@ -5,8 +5,6 @@
 
 <blockquote><p>"What I cannot create, I do not understand."</p></blockquote>
 
-##
-### 🚀 Habilidades:
 <div style="display: inline_block"><br>
 
   
