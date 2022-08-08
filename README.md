@@ -4,7 +4,7 @@
 - 🌱 HTML5 | CSS3 | JavaScript | C# | .NET | ASP.NET
 
 <blockquote><p>"What I cannot create, I do not understand."</p><br>
-                                  <cite>- Richard Feynman</cite></blockquote>
+<cite>- Richard Feynman</cite></blockquote>
 
 ##
 ### 🚀 Habilidades:
