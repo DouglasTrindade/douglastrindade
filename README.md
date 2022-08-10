@@ -14,7 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=865dc4)
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
 ![C#](https://img.shields.io/badge/Csharp-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=865dc4)
-![Dotnet](https://img.shields.io/badge/Dotnet-%23323330.svg?style=for-the-badge&logo=dotnet&logoColor=865dc4)
+![.Net](https://img.shields.io/badge/.NET-%23323330.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=1572B6)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-%23323330.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
