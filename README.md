@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/douglastrindade1/"></a>
   
   <a href = "mailto:douglastrindade22@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Hotmail-1C1C1C?style=for-the-badge&logo=Hotmail&logoColor=00FFFF&link"></a>     
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=00FFFF&link"></a>     
 
 </div>
       
