@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Douglas+Trindade!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
 
 - 📚 Software Developer
-- 🌱 .NET | ASP.NET | Next | JavaScript | Bootstrap | Tailwind
+- 🌱 .NET | ASP.NET | Next | JavaScript | Bootstrap
 
 <blockquote><p>"What I cannot create, I do not understand."</p></blockquote>
 
