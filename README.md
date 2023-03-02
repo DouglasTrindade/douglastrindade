@@ -3,7 +3,7 @@
 - 📚 Software Developer
 - 🌱 .NET | ASP.NET | NextJS | JavaScript | Bootstrap
 
-<blockquote><p>"We can't create, we do not understand."</p></blockquote>
+<blockquote><p>"We can't create, it's because we didn't see"</p></blockquote>
 
 <div style="display: inline_block"><br>
 
