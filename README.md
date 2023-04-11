@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+I'm+%C3%A9+Douglas+Trindade!Front+End+Developer.)](https://git.io/typing-svg) -->
 
 - Software Developer
-- NextJS | JavaScript | Bootstrap | ASP.NET | DotNET
+- NextJS | Bootstrap | JavaScript
 
 <blockquote><p>"We can't create, it's because we didn't see"</p></blockquote>
 
