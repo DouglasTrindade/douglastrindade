@@ -3,8 +3,6 @@
 - Software Developer
 - NextJS | Bootstrap | JavaScript
 
-<blockquote><p>"We can't create, it's because we didn't see"</p></blockquote>
-
 <div style="display: inline_block"><br>
 
  <div style="display: inline_block" align="center"><br>
