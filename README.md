@@ -13,6 +13,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=865dc4)
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
 ![ReactJS](https://img.shields.io/badge/reactjs-%23323330.svg?style=for-the-badge&logo=reactjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/nextjs-%23323330.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-%23323330.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=1572B6)
 
