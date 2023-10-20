@@ -26,7 +26,6 @@
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglastrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastrindade&layout=compact&langs_count=7&theme=dark"/>
-  ![Repository Activity](https://repobeats.axiom.co/api/embed/622a2e9aa709696f7226304b5b7178a5741b3868.svg)
 </div>
 <div style="display: inline_block" align="center"><br>
 
