@@ -2,7 +2,7 @@
 
 - Software Developer
 - Análise e Desenvolvimento de Sistemas
-- NextJS | Bootstrap | JavaScript
+- ReactJS | NextJS | VueJS | JavaScript
 
 <div style="display: inline_block"><br>
 
