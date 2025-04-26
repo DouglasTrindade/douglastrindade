@@ -1,8 +1,8 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+I'm+%C3%A9+Douglas+Trindade!Front+End+Developer.)](https://git.io/typing-svg) -->
 
 - Software Developer
-- Análise e Desenvolvimento de Sistemas
-- ReactJS | NextJS | VueJS | JavaScript
+- Software Engineering
+- ReactJS | NextJS | VueJS | Javascript | Typescript
 
 <div style="display: inline_block"><br>
 
