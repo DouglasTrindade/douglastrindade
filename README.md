@@ -36,7 +36,7 @@
   <a href="https://instagram.com/douglastrindade1" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://instagram.com/douglastrindade1"></a>
     
-  <a href="https://discord.gg/CgXFv8haf" target="_blank">
+  <a href="https://discord.gg/ZdSECpBT4t" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link"></a>
   
   <a href="https://www.linkedin.com/in/douglastrindade1/" alt="Linkedin" target="_blank">
